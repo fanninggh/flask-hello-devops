@@ -12,7 +12,7 @@ This project automates deployment of a Flask app to AWS using GitHub Actions and
 2. Push code → watch Actions tab
 
 ## 🌐 Live App
-[Visit your live app](http://<your-public-ip>) — IP changes on each deploy!
+IP changes on each deploy — check Terraform output in GitHub Actions logs.
 
 ## 🧹 Clean Up
 ```bash
